@@ -1,9 +1,9 @@
 const cacheName = "FruitMerge-FruitMerge-0.1";
 const contentToCache = [
-    "Build/c891a59a54932eabcd75e9291cb66391.loader.js",
-    "Build/8b5579ee6f6ef0f27c5971a99dac63e8.framework.js",
-    "Build/125f78e547a9d32a648325bbced2ccc8.data",
-    "Build/355c2c67d844c06b530962521ac95b07.wasm",
+    "Build/f77e18422dc813ffcf361b0d74346e94.loader.js",
+    "Build/bb3c964b9fd1d6ec3060c868d12220da.framework.js",
+    "Build/fb5db8f987e874fd0c14a578e04d0f95.data",
+    "Build/09e96bd341153ecfff299c937dd60c5d.wasm",
     "TemplateData/style.css"
 
 ];
